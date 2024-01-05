@@ -7,3 +7,5 @@ My LinkedIn banner was created with this program and can be seen below
 ![](repo_pictures/LinkedInBanner.png)
 
 Even generating this image takes quite a while currently, but as this project is just a personal project, I won't be focusing on performance, but rather on new features.
+
+This project utilizes [tkinter](https://docs.python.org/3/library/tk.html), [PyFastNoiseLite](https://github.com/tizilogic/PyFastNoiseLite), and [PIL](https://pypi.org/project/pillow/).
